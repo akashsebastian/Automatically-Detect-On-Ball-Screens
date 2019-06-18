@@ -6,7 +6,7 @@ This repository contains code to implement the paper titled "Automatically Recog
 
 # Disclaimer: 
 
-I'm still working with my college to get permissions to upload certain parts of the code and report.  
+I'm still working with my college to get permissions to upload certain parts of the code and report. The unfinished report can be found in this repository named Report.pdf  
 
   
 
