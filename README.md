@@ -24,7 +24,7 @@ The second part involves extracting features from the segmented frames. This is 
 
   
 
-I am still working on getting the permissions for the third part of the paper. I will upload the code along with the corresponding part of the report.  
+I am still working on getting the permissions for the third part of the paper. I will upload the code along with the corresponding part of the report shortly.  
 
   
 
